@@ -1,4 +1,3 @@
 elasticsearch
 requests
 python-dotenv
-flask
